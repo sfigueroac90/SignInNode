@@ -16,8 +16,6 @@ function onDataResponse(respone){
         const json = JSON.parse(data);
         console.log(json);
     })
-    
-  
 }
 
 app.get("/",function(req,res){
