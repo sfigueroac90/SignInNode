@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../WeatherProject"
+		},
+		{
+			"path": "../CalculatorNode"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../node-js-getting-started"
+		}
+	],
+	"settings": {}
+}
